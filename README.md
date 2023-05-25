@@ -57,11 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Web3 Crowdfunding Blockchain App <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, and writing solidity code. Built with React, Thirdweb and Solidity.
 
 ## 🛠 Built With <a name="built-with"></a>
 
